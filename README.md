@@ -121,8 +121,6 @@ This deployment pattern is ideal for:
 - **ML Model**: Generalized Linear Model (GLM)
 - **API Documentation**: Flasgger/Swagger
 
----
-
-**Author**: UNP (https://unp.education)  
+ 
 **Language**: Python  
 **License**: Not specified
